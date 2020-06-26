@@ -14,7 +14,7 @@
         "typopro-web":                "~3.7.6",
         "font-awesome":               "~4.7.0",
         "director":                   "~1.2.8",
-        "jquery":                     "~3.2.1",
+        "jquery":                     "~3.5.1",
         "mousetrap":                  "~1.6.1"
     }
 }
